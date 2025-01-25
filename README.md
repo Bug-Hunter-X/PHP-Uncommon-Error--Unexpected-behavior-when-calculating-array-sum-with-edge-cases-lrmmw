@@ -1,0 +1,2 @@
+# PHP Uncommon Error: Unexpected behavior when calculating array sum with edge cases
+This repository contains a PHP function that calculates the sum of an array of numbers. However, this function does not handle edge cases such as empty arrays or non-numeric input. This can lead to unexpected results or errors. The solution provided demonstrates how to handle these edge cases using appropriate error handling and input validation.
